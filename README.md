@@ -2,14 +2,23 @@
 
 Requisitos do site {
 	
+	Dark mode all time.
+	Broken grid layout.
 	Não precisar atualizar nada, todas as apis devem fazer isso.
-	API's: Linkedin, Github, UriOnlineJudge, Hacker Rank etc.
-	Dark mode all time
-	Broken grid layout
-	Grid com fotos de coisas que gosto e sou: rick and morty, tattoos, games, tecnologia etc...
-	Meus perfis: Github | Linkedin | Twitter
+	API's: Linkedin, Github, UriOnlineJudge, Hacker Rank, Medium etc.
+	
+	Colocar o site no Linkedin
+	
+	Github Challenges e Code:Nation
+	Meus perfis: Github | Linkedin | Twitter | Medium
+	
 }
 
+Grid com fotos de coisas que gosto e sou: 
+
+Rick and Morty, tattoos, games (Fifa, Clash Royale, BF4), tecnologia etc...
+
+__________________________________________________________________________
 
 
 Alguns projetos que já fiz pra mim !
@@ -37,5 +46,7 @@ Essas são as tecnologias que já trabalhei mas, não sou ninja e certificaçõe
 
 Docker, Python, JSF2, EJB 3.0, Git, SVN, Design Thinking, Scrum.
 __________________________________________________________________________
+
+
 
 
