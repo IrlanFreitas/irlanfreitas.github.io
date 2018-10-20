@@ -2,6 +2,7 @@
 
 Requisitos do site {
 	
+	Saber quem visitou
 	Dark mode all time.
 	Broken grid layout.
 	Não precisar atualizar nada, todas as apis devem fazer isso.
