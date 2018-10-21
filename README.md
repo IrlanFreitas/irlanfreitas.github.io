@@ -1,6 +1,17 @@
 # irlanfreitas.github.io
 
+Referências {
+
+	https://logz.io/
+	https://br.pinterest.com/pin/94716398398823899/
+	https://vincentgarreau.com/particles.js/ - Particulas do site
+
+}
+
+
 Requisitos do site {
+	
+	Transformar isso tudo em um markdown que preste.
 	
 	Saber quem visitou
 	Dark mode all time.
@@ -12,6 +23,8 @@ Requisitos do site {
 	
 	Github Challenges e Code:Nation
 	Meus perfis: Github | Linkedin | Twitter | Medium
+	Multilingue! (Como fazer uma página que se adapta ao idioma do usuário).
+	Icone do Overthinking Projets (Bomba Cabeça explodindo).
 	
 }
 
