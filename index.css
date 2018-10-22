@@ -1,0 +1,35 @@
+.nome_titulo {
+    box-sizing: border-box;
+    color:rgb(255, 255, 255);
+    display: block;
+    font-size: 175px;
+    font-stretch: 100%;
+    font-style: normal;
+    font-variant-caps: normal ;
+    font-variant-east-asian: normal ;
+    font-variant-ligatures: normal;
+    font-variant-numeric: normal ;
+    font-weight: 700;
+    height: 70px ;
+    letter-spacing: normal ;
+    line-height:70px ;
+    max-width: 876px ;
+    text-align: center ;
+    text-size-adjust: 100% ;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+.icone_github {
+    margin: auto;
+    position: absolute;
+    bottom: 30px;
+    left: 500px;
+    width: 150px;
+    height: 150px;
+}
