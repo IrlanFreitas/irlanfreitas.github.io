@@ -1,4 +1,5 @@
 
+
 # irlanfreitas.github.io
 
 ### Referências
@@ -12,7 +13,7 @@ ___
 ### Requisitos do site 
 ___
 
-- [ ] Transformar isso tudo em um markdown que preste.
+- [x] Transformar isso tudo em um markdown que preste.
 - [ ] Saber quem visitou
 - [ ] Dark mode all time.
 - [ ] Broken grid layout.
@@ -49,9 +50,9 @@ Java (Spring Boot) , Android, Javascript, Angular.
 Essas são as tecnologias que já trabalhei mas, não sou ninja e certificações (API Linkedin), algumas não tenho :( :
 
 Docker, Python, JSF2, EJB 3.0, Git, SVN, Design Thinking, Scrum.
-
+<br>
+<br>
 > Written with [StackEdit](https://stackedit.io/).
-
 
 
 
