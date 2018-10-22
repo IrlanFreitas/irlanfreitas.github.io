@@ -26,6 +26,8 @@ ___
 - [ ] Icone do Overthinking Projets (Bomba Cabeça explodindo).
 - [ ] Grid com fotos de coisas que gosto e sou:
 - [ ] Rick and Morty, tattoos, games (Fifa, Clash Royale, BF4), tecnologia etc...
+- [ ] Usar na primeira parte do site a propriedade min-height: 100vh
+- [ ] Scroll Smooth animation com os ítens aparecendo no site pessoal.
 
 ### Conteúdo do Site
 ----------
