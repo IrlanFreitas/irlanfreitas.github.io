@@ -8,6 +8,7 @@ ___
 * https://logz.io/
 * https://br.pinterest.com/pin/94716398398823899/
 * https://vincentgarreau.com/particles.js/ - Particulas do site
+* http://astrojourney.com.br/ - Referência de fundo mais clean
 
 
 ### Requisitos do site 
@@ -28,6 +29,13 @@ ___
 - [ ] Rick and Morty, tattoos, games (Fifa, Clash Royale, BF4), tecnologia etc...
 - [ ] Usar na primeira parte do site a propriedade min-height: 100vh
 - [ ] Scroll Smooth animation com os ítens aparecendo no site pessoal.
+- [ ] Fazer as animações com [animate.css](https://daneden.github.io/animate.css/) ou outras libs de animações.
+- [ ] Mudar a fonte para khand(Preferencialmente), dosis, poiret one, lobster two do google fonts.
+- [ ] Colocar o fundo preto ou algo mais clean como [astrojourney](http://astrojourney.com.br/)
+
+
+colocar icones das redes sociais
+
 
 ### Conteúdo do Site
 ----------
