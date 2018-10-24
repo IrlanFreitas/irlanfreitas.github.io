@@ -34,9 +34,6 @@ ___
 - [ ] Colocar o fundo preto ou algo mais clean como [astrojourney](http://astrojourney.com.br/)
 
 
-colocar icones das redes sociais
-
-
 ### Conteúdo do Site
 ----------
 
