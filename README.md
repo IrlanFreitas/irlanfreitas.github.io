@@ -15,7 +15,7 @@ ___
 ___
 
 - [x] Transformar isso tudo em um markdown que preste.
-- [ ] Saber quem visitou
+- [ ] Saber quem visitou (Usando o Google Analytics)
 - [ ] Dark mode all time.
 - [ ] Broken grid layout.
 - [ ] Não precisar atualizar nada, todas as apis devem fazer isso.
