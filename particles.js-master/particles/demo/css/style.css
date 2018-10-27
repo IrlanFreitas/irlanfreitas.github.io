@@ -44,14 +44,14 @@ body{
 
 canvas{
   display:block;
-  vertical-align:bottom;
+  vertical-align: bottom;
 }
 
 
 /* ---- stats.js ---- */
 
 .count-particles{
-  background: #000022;
+  background: #000000;
   position: absolute;
   top: 48px;
   left: 0;
@@ -92,7 +92,7 @@ canvas{
 #particles-js{
   width: 100%;
   min-height: 100vh;
-  background-color: #061e59;
+  background-color: #000000;
   background-image: url('');
   background-size: cover;
   background-position: 50% 50%;

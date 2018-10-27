@@ -1,3 +1,8 @@
+* {
+    font-family: 'Khand', sans-serif;
+}
+
+
 .nome_titulo {
     box-sizing: border-box;
     color:rgb(255, 255, 255);
@@ -5,31 +10,42 @@
     font-size: 175px;
     font-stretch: 100%;
     font-style: normal;
-    font-variant-caps: normal ;
-    font-variant-east-asian: normal ;
-    font-variant-ligatures: normal;
-    font-variant-numeric: normal ;
     font-weight: 700;
     height: 70px ;
     letter-spacing: normal ;
-    line-height:70px ;
+    line-height: 70px ;
     max-width: 876px ;
     text-align: center ;
     text-size-adjust: 100% ;
     margin: auto;
     position: absolute;
-    top: 0; left: 0; bottom: 0; right: 0;
+    top: 0; left: 42%; bottom: 0; right: 50%;
+}
+
+.imagem_titulo {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    right: 32%;
+    left: 0;
+    bottom: 41%;
 }
 
 ul {
-    list-style: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  list-style-type: none;
+  position: absolute;
+  justify-items: center;
+  justify-content: space-around;
+  width: 100%;
+  bottom: 0;
+  left: 0;
 }
 
-.icone_github {
-    margin: auto;
-    position: absolute;
-    bottom: 30px;
-    left: 500px;
-    width: 150px;
-    height: 150px;
+.icone {
+    width: 100px;
+    height: 100px;
 }
+
