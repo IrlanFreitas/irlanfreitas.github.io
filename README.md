@@ -15,6 +15,7 @@ ___
 ___
 
 - [x] Transformar isso tudo em um markdown que preste.
+- [ ] Fazer em mobile first.
 - [ ] Saber quem visitou (Usando o Google Analytics)
 - [ ] Dark mode all time.
 - [ ] Broken grid layout.
