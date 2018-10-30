@@ -18,6 +18,7 @@ ___
 
 - [x] Transformar isso tudo em um markdown que preste.
 - [ ] Criar o conteúdo do site.
+- [ ] Usar medidas relativas.
 - [ ] Fazer em mobile first.
 - [ ] Saber quem visitou (Usando o Google Analytics)
 - [ ] Dark mode all time.
