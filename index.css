@@ -1,7 +1,15 @@
-* {
-    font-family: 'Khand', sans-serif;
+@font-face {
+    font-family: 'Khand-Medium';
+    src: url('resources/Khand/Khand-Medium.ttf') format('truetype');
 }
 
+* {
+    font-family: 'Khand-Medium', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
 
 .nome_titulo {
     box-sizing: border-box;
@@ -40,12 +48,18 @@ ul {
   justify-items: center;
   justify-content: space-around;
   width: 100%;
-  bottom: 0;
+  bottom: 30px;
   left: 0;
 }
 
 .icone {
-    width: 100px;
-    height: 100px;
+    width: 65px;
+    height: 65px;
 }
 
+.versao {
+    position: absolute;
+    color: white;
+    bottom: 0;
+    right: 10px;
+}
