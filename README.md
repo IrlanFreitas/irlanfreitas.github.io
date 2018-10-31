@@ -9,12 +9,16 @@ ___
 * https://br.pinterest.com/pin/94716398398823899/
 * https://vincentgarreau.com/particles.js/ - Particulas do site
 * http://astrojourney.com.br/ - Referência de fundo mais clean
+* https://wowjs.uk/ - Scroll com os elementos aparecendo
+* https://daneden.github.io/animate.css/ - Animações
 
 
 ### Requisitos do site 
 ___
 
 - [x] Transformar isso tudo em um markdown que preste.
+- [ ] Criar o conteúdo do site.
+- [ ] Usar medidas relativas.
 - [ ] Fazer em mobile first.
 - [ ] Saber quem visitou (Usando o Google Analytics)
 - [ ] Dark mode all time.
