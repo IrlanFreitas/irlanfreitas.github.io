@@ -13,6 +13,15 @@ ___
 * https://daneden.github.io/animate.css/ - Animações
 
 
+### Organização do Site	
+___
+
+* Contatos
+* Quem eu sou
+* O que faço
+
+
+
 ### Requisitos do site 
 ___
 
@@ -25,17 +34,18 @@ ___
 - [ ] Broken grid layout.
 - [ ] Não precisar atualizar nada, todas as apis devem fazer isso.
 - [ ] API's: Linkedin, Github, UriOnlineJudge, Hacker Rank, Medium etc.
-- [ ] Colocar o site no Linkedin
+- [x] Colocar o site no Linkedin
 - [ ] Github Challenges e Code:Nation
-- [ ] Meus perfis: Github | Linkedin | Twitter | Medium
+- [x] Meus perfis: Email | Github | Linkedin | Twitter 
+- [ ] Adicionar o Uri Online Judge aos perfis.
 - [ ] Multilingue! (Como fazer uma página que se adapta ao idioma do usuário).
 - [ ] Icone do Overthinking Projets (Bomba Cabeça explodindo).
 - [ ] Grid com fotos de coisas que gosto e sou:
 - [ ] Rick and Morty, tattoos, games (Fifa, Clash Royale, BF4), tecnologia etc...
-- [ ] Usar na primeira parte do site a propriedade min-height: 100vh
+- [x] Usar na primeira parte do site a propriedade min-height: 100vh
 - [ ] Scroll Smooth animation com os ítens aparecendo no site pessoal.
 - [ ] Fazer as animações com [animate.css](https://daneden.github.io/animate.css/) ou outras libs de animações.
-- [ ] Mudar a fonte para khand(Preferencialmente), dosis, poiret one, lobster two do google fonts.
+- [x] Mudar a fonte para khand(Preferencialmente), dosis, poiret one, lobster two do google fonts.
 - [ ] Colocar o fundo preto ou algo mais clean como [astrojourney](http://astrojourney.com.br/)
 
 
