@@ -15,7 +15,7 @@ html {
     box-sizing: border-box;
     color:rgb(255, 255, 255);
     display: block;
-    font-size: 16em;
+    font-size: 14em;
     font-stretch: 100%;
     font-style: normal;
     font-weight: 700;
@@ -28,6 +28,7 @@ html {
     margin: auto;
     position: absolute;
     top: 0; left: 42%; bottom: 0; right: 50%;
+    opacity: 0.78;
 }
 
 .imagem_titulo {
@@ -38,25 +39,26 @@ html {
     right: 32%;
     left: 0;
     bottom: 41%;
+    opacity: 0.78;
 }
 
 .redes_sociais {
     display: flex;
     position: absolute;
-    justify-content: center;
+    justify-content: space-around;
     width: 100%;
     bottom: 1.875rem;
     left: 0;
 }
 
 .icone {
-    width: 4.0625rem;
-    height: 4.0625rem;
+    width: 3.75rem;
+    height: 3.75rem;
 }
 
 .redes_sociais > li {
     list-style: none;
-    padding: 0 2.5rem;
+    /* padding: 0 2.5rem; */
 }
 
 .versao {
