@@ -11,41 +11,47 @@ html {
     scroll-behavior: smooth;
   }
 
-.nome_titulo {
+  .nome_titulo {
     box-sizing: border-box;
-    color:rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
     display: block;
-    font-size: 14em;
+    font-size: 9em;
     font-stretch: 100%;
     font-style: normal;
     font-weight: 700;
-    height: 70px ;
-    letter-spacing: normal ;
-    line-height: 70px ;
-    max-width: 876px ;
-    text-align: center ;
-    text-size-adjust: 100% ;
-    margin: auto;
-    position: absolute;
-    top: 0; left: 42%; bottom: 0; right: 50%;
-    opacity: 0.78;
+    height: 70px;
+    letter-spacing: normal;
+    line-height: 70px;
+    max-width: 876px;
+    text-size-adjust: 100%;
+    text-shadow: 2px 2px #005bf3;
 }
 
 .imagem_titulo {
+    width: 7.5rem;
+    height: 7.5rem;
+}
+
+.nome_imagem {
     position: absolute;
-    width: 12.5rem;
-    height: 12.5rem;
-    margin: 0 auto;
-    right: 32%;
-    left: 0;
-    bottom: 41%;
-    opacity: 0.78;
+    top: 0;
+    bottom: 0;
+    right: 50%;
+    left: 50%;
+    opacity: 0.30;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-30%, -30%);
 }
 
 .redes_sociais {
     display: flex;
     position: absolute;
-    justify-content: space-around;
+    justify-content: center;
     width: 100%;
     bottom: 1.875rem;
     left: 0;
@@ -58,7 +64,7 @@ html {
 
 .redes_sociais > li {
     list-style: none;
-    /* padding: 0 2.5rem; */
+    padding: 0 2.5rem;
 }
 
 .versao {
