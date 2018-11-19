@@ -13,7 +13,7 @@ html {
 
   .nome_titulo {
     box-sizing: border-box;
-    color: rgb(255, 255, 255);
+    color: 	#A9A9A9;
     display: block;
     font-size: 9em;
     font-stretch: 100%;
@@ -24,12 +24,13 @@ html {
     line-height: 70px;
     max-width: 876px;
     text-size-adjust: 100%;
-    text-shadow: 2px 2px #005bf3;
+    opacity: 0.40;
 }
 
 .imagem_titulo {
     width: 7.5rem;
     height: 7.5rem;
+    opacity: 0.60;
 }
 
 .nome_imagem {
@@ -38,7 +39,6 @@ html {
     bottom: 0;
     right: 50%;
     left: 50%;
-    opacity: 0.30;
     display: flex;
     justify-content: center;
     align-items: baseline;
@@ -58,8 +58,8 @@ html {
 }
 
 .icone {
-    width: 3.75rem;
-    height: 3.75rem;
+    width: 2.5rem;
+    height: 2.5rem;
 }
 
 .redes_sociais > li {
