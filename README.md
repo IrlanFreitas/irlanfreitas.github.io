@@ -26,6 +26,8 @@ ___
 ___
 
 - [x] Transformar isso tudo em um markdown que preste.
+- [ ] Usar o Gatsby.js.
+- [ ] Usar o develop roadmap front e back como referência.
 - [ ] Criar o conteúdo do site.
 - [ ] Usar medidas relativas.
 - [ ] Fazer em mobile first.
