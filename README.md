@@ -35,7 +35,7 @@ ___
 - [ ] Dark mode all time.
 - [ ] Broken grid layout.
 - [ ] Não precisar atualizar nada, todas as apis devem fazer isso.
-- [ ] API's: Linkedin, Github, UriOnlineJudge, Hacker Rank, Medium etc.
+- [ ] API's: Linkedin, Github, UriOnlineJudge, Hacker Rank, Exercism.io, Alura, Medium etc.
 - [x] Colocar o site no Linkedin
 - [ ] Github Challenges e Code:Nation
 - [x] Meus perfis: Email | Github | Linkedin | Twitter 
